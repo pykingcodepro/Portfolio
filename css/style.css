@@ -150,3 +150,8 @@ nav > #social-links > li > a {
     width: 60%;
     height: 90%;
 }
+
+#about-us {
+    width: 50vw;
+    height: 100vh;
+}
